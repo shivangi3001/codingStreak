@@ -11,8 +11,14 @@
 ## Leetcode Weekly Contests
 
 ### [Weekly Contest 301](https://leetcode.com/contest/weekly-contest-301/)
-
 - [Minimum Amount of Time to Fill Cups](https://leetcode.com/contest/weekly-contest-301/problems/minimum-amount-of-time-to-fill-cups/)
+
+### [Weekly Contest 302](https://leetcode.com/contest/weekly-contest-301/)
+
+-[6120. Maximum Number of Pairs in Array](https://leetcode.com/contest/weekly-contest-302/problems/maximum-number-of-pairs-in-array/)
+
+-[6164. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/contest/weekly-contest-302/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)
+
 
 
 ## Company wise online assesment questions
