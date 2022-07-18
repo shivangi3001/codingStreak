@@ -1,4 +1,4 @@
-# codingStreak
+# DSAcodingStreak
 
 ## Leetcode Daily Challenge
 
