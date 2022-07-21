@@ -2,8 +2,8 @@
 
 ## Leetcode Daily Challenge
 
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - 
-Amazon OA Leetcode medium linkedList(21st July 2022)
+- [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) - 
+Leetcode medium linkedList(21st July 2022)
 
 - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) - 
 Leetcode medium(20th July 2022)
@@ -36,6 +36,8 @@ Leetcode easy (19th July 2022)
 
 ### Amazon
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  - topic tags- Array, HashTable   -------  level - leetCode medium
+
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - - topic tags- LinkedList   -------  level - leetCode medium
 
 ### WalMart
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  - topic tags- Array, HashTable   -------  level - leetCode medium
