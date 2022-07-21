@@ -2,6 +2,9 @@
 
 ## Leetcode Daily Challenge
 
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - 
+Amazon OA Leetcode medium linkedList(21st July 2022)
+
 - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) - 
 Leetcode medium(20th July 2022)
 
