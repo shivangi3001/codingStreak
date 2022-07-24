@@ -2,8 +2,9 @@
 
 ## Leetcode Daily Challenge
 
-- [86. Partition List](https://leetcode.com/problems/partition-list/) - 
-Leetcode medium linkedList(22nd July 2022)
+- [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - Leetcode hard Array, BinarySearch, Divide&Conquer(23rd July 2022)
+
+- [86. Partition List](https://leetcode.com/problems/partition-list/) - Leetcode medium linkedList(22nd July 2022)
 
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) - 
 Leetcode medium linkedList(21st July 2022)
