@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Leetcode medium Array, BinarySearch (25th July 2022)  RunTime: 0ms  Memory: 45.7MB
+
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - Leetcode medium Array, BinarySearch, Divide&Conquer, matrix (24th July 2022)  RunTime: 22ms  Memory: 57.1MB
 
 - [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - Leetcode hard Array, BinarySearch, Divide&Conquer(23rd July 2022)
