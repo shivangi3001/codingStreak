@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+- [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - Leetcode medium, BinaryTree, DFS (25th July 2022)  RunTime: 10ms  Memory: 47.6MB
+
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Leetcode medium Array, BinarySearch (25th July 2022)  RunTime: 0ms  Memory: 45.7MB
 
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - Leetcode medium Array, BinarySearch, Divide&Conquer, matrix (24th July 2022)  RunTime: 22ms  Memory: 57.1MB
