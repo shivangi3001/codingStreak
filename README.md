@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+- [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - Leetcode medium, Linkedlist, stack,tree, DFS, Binary tree (26th July 2022)  RunTime: 1ms  Memory: 43.1MB
+
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - Leetcode medium, BinaryTree, DFS (26th July 2022)  RunTime: 10ms  Memory: 47.6MB
 
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Leetcode medium Array, BinarySearch (25th July 2022)  RunTime: 0ms  Memory: 45.7MB
