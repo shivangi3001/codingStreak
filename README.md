@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - Leetcode easy, hashTable, String, Sorting (26th July 2022)  RunTime: 25 ms  Memory: 46.5 MB
+
 - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - Leetcode medium, Linkedlist, stack,tree, DFS, Binary tree (26th July 2022)  RunTime: 1ms  Memory: 43.1MB
 
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - Leetcode medium, BinaryTree, DFS (26th July 2022)  RunTime: 10ms  Memory: 47.6MB
