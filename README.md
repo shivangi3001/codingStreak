@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [916. Word Subsets](https://leetcode.com/problems/word-subsets/) - Leetcode medium, hashTable, array String (30th July 2022)  Runtime: 36 ms  Memory Usage: 89.8 MB
+
 -  [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) - Leetcode medium, hashTable, array String (29th July 2022)  Runtime: 1 ms  Memory Usage: 42.5 MB
 
 -  [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) - Leetcode easy (28th July 2022)  RunTime: 25 ms  Memory: 46.5 MB
@@ -35,6 +37,7 @@ Leetcode easy (19th July 2022)
 ## Leetcode Weekly Contests
 
 ### [Weekly Contest 301](https://leetcode.com/contest/weekly-contest-301/)
+
 - [Minimum Amount of Time to Fill Cups](https://leetcode.com/contest/weekly-contest-301/problems/minimum-amount-of-time-to-fill-cups/)
 
 ### [Weekly Contest 302](https://leetcode.com/contest/weekly-contest-301/)
