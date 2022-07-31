@@ -36,15 +36,29 @@ Leetcode easy (19th July 2022)
 
 ## Leetcode Weekly Contests
 
-### [Weekly Contest 301](https://leetcode.com/contest/weekly-contest-301/)
+### [Weekly Contest 304](https://leetcode.com/contest/weekly-contest-304/) - 31st July 2022(Sunday)
 
-- [Minimum Amount of Time to Fill Cups](https://leetcode.com/contest/weekly-contest-301/problems/minimum-amount-of-time-to-fill-cups/)
+- [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/contest/weekly-contest-304/problems/make-array-zero-by-subtracting-equal-amounts/) - Runtime: 2 ms, Memory Usage: 41.7 MB
+
+- [2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/contest/weekly-contest-304/problems/maximum-number-of-groups-entering-a-competition/) - Runtime: 0 ms, Memory Usage: 69.8 MB
+
+- [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/contest/weekly-contest-304/problems/find-closest-node-to-given-two-nodes/)
+
+- [2360. Longest Cycle in a Graph](https://leetcode.com/contest/weekly-contest-304/problems/longest-cycle-in-a-graph/)
+
+
 
 ### [Weekly Contest 302](https://leetcode.com/contest/weekly-contest-301/)
 
 - [6120. Maximum Number of Pairs in Array](https://leetcode.com/contest/weekly-contest-302/problems/maximum-number-of-pairs-in-array/)
 
 - [6164. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/contest/weekly-contest-302/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)
+
+### [Weekly Contest 301](https://leetcode.com/contest/weekly-contest-301/)
+
+- [Minimum Amount of Time to Fill Cups](https://leetcode.com/contest/weekly-contest-301/problems/minimum-amount-of-time-to-fill-cups/)
+
+
 
 
 
