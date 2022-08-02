@@ -1,9 +1,12 @@
 # DSAcodingStreak
 
 ## Leetcode Daily Challenge
+
+-  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - Leetcode medium, Array, BS, sorting, Heap (2nd Aug 2022)  Runtime: 27 ms  Memory Usage: 56.6 MB
+
 -  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) - Leetcode medium, Maths, DP, combinatorial (1st Aug 2022)  Runtime: 0 ms  Memory Usage: 41.1 MB
 
-- 31st july --- range sum query----still pending
+- 31st july --- range sum query----still pending   ---- based on segmet/ fenwik tree
 
 -  [916. Word Subsets](https://leetcode.com/problems/word-subsets/) - Leetcode medium, hashTable, array String (30th July 2022)  Runtime: 36 ms  Memory Usage: 89.8 MB
 
