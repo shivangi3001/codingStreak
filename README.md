@@ -1,6 +1,9 @@
 # DSAcodingStreak
 
 ## Leetcode Daily Challenge
+-  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) - Leetcode medium, Maths, DP, combinatorial (1st Aug 2022)  Runtime: 0 ms  Memory Usage: 41.1 MB
+
+- 31st july --- range sum query----still pending
 
 -  [916. Word Subsets](https://leetcode.com/problems/word-subsets/) - Leetcode medium, hashTable, array String (30th July 2022)  Runtime: 36 ms  Memory Usage: 89.8 MB
 
