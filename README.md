@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) - Leetcode medium(3rd Aug 2022)
+
 -  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - Leetcode medium, Array, BS, sorting, Heap (2nd Aug 2022)  Runtime: 27 ms  Memory Usage: 56.6 MB
 
 -  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) - Leetcode medium, Maths, DP, combinatorial (1st Aug 2022)  Runtime: 0 ms  Memory Usage: 41.1 MB
