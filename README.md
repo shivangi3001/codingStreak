@@ -2,6 +2,10 @@
 
 ## Leetcode Daily Challenge
 
+-  [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) - Leetcode medium DP approach(5th Aug 2022) Runtime: 2 ms  Memory Usage: 41.2 MB
+
+- some ques based on geometry
+
 -  [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) - Leetcode medium(3rd Aug 2022)
 
 -  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - Leetcode medium, Array, BS, sorting, Heap (2nd Aug 2022)  Runtime: 27 ms  Memory Usage: 56.6 MB
