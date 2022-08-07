@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) - Leetcode Hard (7th Aug 2022) 
+
 -  [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/) - Leetcode Hard (6th Aug 2022) 
 
 -  [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) - Leetcode medium DP approach(5th Aug 2022) Runtime: 2 ms  Memory Usage: 41.2 MB
