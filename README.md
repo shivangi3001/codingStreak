@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Leetcode Medium (8th Aug 2022) Runtime: 75 ms     Memory Usage: 42.2 MB
+
 -  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) - Leetcode Hard (7th Aug 2022) 
 
 -  [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/) - Leetcode Hard (6th Aug 2022) 
