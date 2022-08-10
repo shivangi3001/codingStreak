@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [108_Convert_Sorted_Array_to_Binary_Search_Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - Leetcode Easy (10th Aug 2022)
+
 -  [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) - Leetcode Medium (9th Aug 2022) 
 
 -  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Leetcode Medium (8th Aug 2022) Runtime: 75 ms     Memory Usage: 42.2 MB
