@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - Leetcode Medium (11th Aug 2022)
+
 -  [108_Convert_Sorted_Array_to_Binary_Search_Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - Leetcode Easy (10th Aug 2022) Runtime: 0 ms   Memory Usage: 43.6 MB
 
 -  [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) - Leetcode Medium (9th Aug 2022) 
