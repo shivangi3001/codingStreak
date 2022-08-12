@@ -2,6 +2,8 @@
 
 ## Leetcode Daily Challenge
 
+-  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Leetcode easy (12th Aug 2022) Runtime: 12 ms,  Memory Usage: 49.5 MB
+
 -  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - Leetcode Medium (11th Aug 2022)
 
 -  [108_Convert_Sorted_Array_to_Binary_Search_Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - Leetcode Easy (10th Aug 2022) Runtime: 0 ms   Memory Usage: 43.6 MB
