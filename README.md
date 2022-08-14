@@ -2,6 +2,10 @@
 
 ## Leetcode Daily Challenge
 
+-  [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - Leetcode hard (14th Aug 2022)
+
+- 13th aug
+
 -  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Leetcode easy (12th Aug 2022) Runtime: 12 ms,  Memory Usage: 49.5 MB
 
 -  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - Leetcode Medium (11th Aug 2022)
