@@ -3,7 +3,7 @@
 
 ## Leetcode Daily Challenge
 
--  [387. First Unique Character in a String]https://leetcode.com/problems/first-unique-character-in-a-string/) - Leetcode easy (16th Aug 2022) Runtime: 47 ms, Memory Usage: 53.9 MB
+-  [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - Leetcode easy (16th Aug 2022) Runtime: 10 ms, Memory Usage: 49.1 MB
 
 -  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - Leetcode easy (15th Aug 2022) Runtime: 6 ms, Memory Usage: 46.1 MB
 
