@@ -1,6 +1,9 @@
 # DSAcodingStreak
 
+
 ## Leetcode Daily Challenge
+
+-  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - Leetcode easy (15th Aug 2022) Runtime: 6 ms, Memory Usage: 46.1 MB
 
 -  [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - Leetcode hard (14th Aug 2022)
 
