@@ -3,6 +3,10 @@
 
 ## Leetcode Daily Challenge
 
+-  [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) - Leetcode medium (19th Aug 2022)
+
+-  [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) - Leetcode medium (18th Aug 2022)
+
 -  [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Leetcode easy (17th Aug 2022) Runtime: 3 ms, Memory Usage: 42.2 MB
 
 -  [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - Leetcode easy (16th Aug 2022) Runtime: 10 ms, Memory Usage: 49.1 MB
