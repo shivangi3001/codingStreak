@@ -77,6 +77,13 @@ Leetcode easy (19th July 2022)
 
 ## Leetcode Weekly Contests
 
+### [Weekly Contest 306](https://leetcode.com/contest/weekly-contest-306/) - 14th August 2022(Sunday)
+
+- [2373. Largest Local Values in a Matrix](https://leetcode.com/contest/weekly-contest-306/problems/largest-local-values-in-a-matrix/)
+
+-[2374. Node With Highest Edge Score](https://leetcode.com/contest/weekly-contest-306/problems/node-with-highest-edge-score/)
+
+
 ### [Weekly Contest 304](https://leetcode.com/contest/weekly-contest-304/) - 31st July 2022(Sunday)
 
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/contest/weekly-contest-304/problems/make-array-zero-by-subtracting-equal-amounts/) - Runtime: 2 ms, Memory Usage: 41.7 MB
