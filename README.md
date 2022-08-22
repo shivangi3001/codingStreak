@@ -3,6 +3,12 @@
 
 ## Leetcode Daily Challenge
 
+- [342. Power of Four](https://leetcode.com/problems/power-of-four/) - Leetcode easy - "Bit Manipulation, Recursion" (22nd Aug 2022) Runtime: 2 ms, Memory Usage: 40.7 MB
+
+- (21st Aug 2022)
+
+- 20th aug
+
 -  [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) - Leetcode medium (19th Aug 2022)
 
 -  [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) - Leetcode medium (18th Aug 2022)
