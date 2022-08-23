@@ -121,6 +121,9 @@ Leetcode easy (19th July 2022)
 ### Microsoft
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  - topic tags- Array, HashTable   -------  level - leetCode medium
 
+### Palo ALto
+- [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) - Leetcode medium Array, Sliding Window (23rd Aug 2022)  Runtime: 18 ms  Memory Usage: 86.7 MB
+
 ### Amazon
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  - topic tags- Array, HashTable   -------  level - leetCode medium
 
@@ -128,3 +131,5 @@ Leetcode easy (19th July 2022)
 
 ### WalMart
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  - topic tags- Array, HashTable   -------  level - leetCode medium
+
+
