@@ -3,6 +3,8 @@
 
 ## Leetcode Daily Challenge
 
+- [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Leetcode easy -(23rd Aug 2022)
+
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/) - Leetcode easy - "Bit Manipulation, Recursion" (22nd Aug 2022) Runtime: 2 ms, Memory Usage: 40.7 MB
 
 - (21st Aug 2022)
