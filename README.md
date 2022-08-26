@@ -3,6 +3,8 @@
 
 ## Leetcode Daily Challenge
 
+- [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) - Leetcode medium - bit manipulation, Math, counting(26th Aug 2022) Runtime: 2 ms, Memory Usage: 40.3 MB
+
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Leetcode easy -(23rd Aug 2022)
 
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/) - Leetcode easy - "Bit Manipulation, Recursion" (22nd Aug 2022) Runtime: 2 ms, Memory Usage: 40.7 MB
