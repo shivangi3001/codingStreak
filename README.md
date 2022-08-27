@@ -3,6 +3,8 @@
 
 ## Leetcode Daily Challenge
 
+- [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) - Leetcode hard -(27th Aug 2022)
+
 - [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) - Leetcode medium - bit manipulation, Math, counting(26th Aug 2022) Runtime: 2 ms, Memory Usage: 40.3 MB
 
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Leetcode easy -(23rd Aug 2022)
