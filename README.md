@@ -3,6 +3,8 @@
 
 ## Leetcode Daily Challenge
 
+- [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/submissions/) - Leetcode medium -(3rd Sept 2022) Runtime: 2 ms  Memory Usage: 43 MB
+
 - [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) - Leetcode hard -(27th Aug 2022)
 
 - [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) - Leetcode medium - bit manipulation, Math, counting(26th Aug 2022) Runtime: 2 ms, Memory Usage: 40.3 MB
