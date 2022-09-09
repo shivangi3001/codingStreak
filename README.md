@@ -3,6 +3,8 @@
 
 ## Leetcode Daily Challenge
 
+- [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+
 - [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/submissions/) - Leetcode medium -(3rd Sept 2022) Runtime: 2 ms  Memory Usage: 43 MB
 
 - [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) - Leetcode hard -(27th Aug 2022)
