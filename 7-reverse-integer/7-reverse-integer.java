@@ -1,3 +1,10 @@
+// testcases
+// I/p: 123                  o/p:  321
+// -123                            -321
+// 120                              21
+// 1534236469                       0
+
+
 class Solution {
     public int reverse(int x) {
         long n=x;
