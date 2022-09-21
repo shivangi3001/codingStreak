@@ -31,7 +31,7 @@
 
 -  [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - Leetcode hard (14th Aug 2022)
 
-- 13th aug
+- [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) - 13th aug--still pending
 
 -  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Leetcode easy (12th Aug 2022) Runtime: 12 ms,  Memory Usage: 49.5 MB
 
