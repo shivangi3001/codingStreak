@@ -14,23 +14,31 @@
  * }
  */
 
+// testcase--
+// I/p--   [3,9,20,null,null,15,7]    o/p - t
+// [1,2,2,3,3,null,null,4,4]              - f
+// []                                     - t
+// [1]                                    - t
+// [5,1,6,null,2,null,null,null,3,null,4]  -f
+// [1,2,2,3,null,null,3,4,null,null,4]     -f
+
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        if(root == null) return true;
-        if(height(root)==-1) return false;
+        if(root == null) return true;   //if tree empty it means--balanced
+        if(height(root)==-1) return false;  // in case of unbalanced tree height of any root will return -1
         return true;
     }
     
     public int height(TreeNode root){
-        if(root==null) return 0;
+        if(root==null) return 0;   //base case
         
-        int lh = height(root.left);
-        int rh = height(root.right);
+        int lh = height(root.left);   // height of left subtree
+        int rh = height(root.right);  //height of right subtree
         
-        if(lh==-1 || rh==-1)  return -1;
-        if(Math.abs(lh-rh)>1) return -1;
+        if(lh==-1 || rh==-1)  return -1;   //if any of left or right subtree unbalanced then whole tree unbalanced
+        if(Math.abs(lh-rh)>1) return -1;    //chechking at each root if balanced or not
         
-        return Math.max(lh,rh) +1;
+        return Math.max(lh,rh) +1;  //if above all condition falied---> subtreetree balanced return height of this subtree
     }
 }
 
