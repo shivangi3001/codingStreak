@@ -1,6 +1,7 @@
+// Runtime: 0 ms, faster than 100.00%   and  Memory Usage: 40 MB, less than 96.44%
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        boolean flag=false;
+        //boolean flag=false;
         StringBuilder s1 = new StringBuilder();
         StringBuilder s2 = new StringBuilder();
         
@@ -9,7 +10,7 @@ class Solution {
         String str1=s1.toString();    String str2=s2.toString();
         
         //System.out.println(str1+"->"+str2);
-        if(str1.equals(str2)) flag= true;
-        return flag;
+        if(str1.equals(str2)) return true;
+        return false;
     }
 }
