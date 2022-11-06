@@ -134,13 +134,12 @@ class GfG
     public static boolean isSymmetric(Node root)
     {
         // add your code here;
-        return (root==null) || helper(root.left, root.right);
+        return root==null || helper(root.left, root.right);
     }
     
     public static boolean helper(Node left, Node right){
-        if(left==null || right==null)  return left==right;
-        
+        if(left == null  || right == null)  return left==right;
         if(left.data != right.data)  return false;
-        return helper(left.left, right.right) && helper(left.right, right.left);
+        return helper(left.left, right.right)  && helper(left.right, right.left);
     }
 }
