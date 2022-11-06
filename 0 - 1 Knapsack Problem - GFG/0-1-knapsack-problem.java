@@ -72,30 +72,60 @@ class gfg
 // }
 
 
-// memoization code
+// memoization code----all testcases passed --> time taken-0.28
+// class Solution 
+// { 
+//     static int knapSack(int W, int wt[], int val[], int n) 
+//     { 
+//          int[][] dp = new int[n][W+1];
+//          for(int[] i : dp)   Arrays.fill(i, -1);
+         
+//          return helper(n-1, W, wt, val, dp);
+//     }
+    
+//     static int helper(int idx, int t, int[] wt, int[] val, int[][] dp){
+//         if(t==0)  return 0;
+//         if(idx == 0){
+//             if(wt[idx]<=t) return val[idx];
+//             return 0;
+//         }
+        
+//         if(dp[idx][t] != -1)  return dp[idx][t];
+        
+//         int not = 0 + helper(idx-1, t, wt,val,dp);
+//         int take=0;
+//         if(wt[idx]<=t) take = val[idx] + helper(idx-1, t-wt[idx], wt, val,dp);
+        
+//         return dp[idx][t] = Math.max(not, take);
+//     }
+// }
+
+// dp code
 class Solution 
 { 
     static int knapSack(int W, int wt[], int val[], int n) 
     { 
          int[][] dp = new int[n][W+1];
-         for(int[] i : dp)   Arrays.fill(i, -1);
          
-         return helper(n-1, W, wt, val, dp);
-    }
-    
-    static int helper(int idx, int t, int[] wt, int[] val, int[][] dp){
-        if(t==0)  return 0;
-        if(idx == 0){
-            if(wt[idx]<=t) return val[idx];
-            return 0;
-        }
-        
-        if(dp[idx][t] != -1)  return dp[idx][t];
-        
-        int not = 0 + helper(idx-1, t, wt,val,dp);
-        int take=0;
-        if(wt[idx]<=t) take = val[idx] + helper(idx-1, t-wt[idx], wt, val,dp);
-        
-        return dp[idx][t] = Math.max(not, take);
+         for(int i=0;i<n;i++) dp[i][0] = 0;
+        //  if(wt[0]<=W) dp[0][wt[0]] = val[0];
+         for(int j=0;j<=W;j++){
+             if(wt[0] <= j) dp[0][j] = val[0];
+         }
+         
+         for(int i=1;i<n;i++){
+             for(int j=1;j<=W;j++){
+                 int not = 0+dp[i-1][j];
+                 int take=0;
+                 if(wt[i]<=j)  take=val[i] + dp[i-1][j-wt[i]];
+                 dp[i][j] = Math.max(not, take);
+             }
+         }
+         return dp[n-1][W];
     }
 }
+// testcase --> 
+// 2
+// 78
+// 94 85
+// 61 18
