@@ -48,6 +48,7 @@
 //     }
 // }
 
+// Runtime: 1 ms, faster than 74.81% Memory Usage: 42.1 MB, less than 68.05%
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         return root==null || helper(root.left, root.right);
