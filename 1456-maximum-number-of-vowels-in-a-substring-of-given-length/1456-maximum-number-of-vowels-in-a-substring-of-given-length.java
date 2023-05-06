@@ -1,4 +1,6 @@
 // daily leetcode challenge - 5th MAy
+
+// Runtime: 15 ms, faster than 73.93%
 class Solution {
     public int maxVowels(String s, int k) {
         // int n = s.length();
