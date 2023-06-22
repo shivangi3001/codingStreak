@@ -38,6 +38,7 @@
 
 
 // dp code  Runtime: 30 ms, faster than 41.06%     Memory Usage: 74.6 MB, less than 57.44% 
+// Runtime: 19 ms, faster than 51.78%    Memory Usage: 49.6 MB, less than 99.21% 
 class Solution {
     public int maxProfit(int[] prices, int fee) {
         int n = prices.length;
